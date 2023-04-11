@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "title": "qwerty",
+      "price": "100",
+      "image": "https://images.unsplash.com/photo-1680925723180-ff3cb559c9b4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=400&q=60",
+      "id": 1
+    }
+  ]
+}

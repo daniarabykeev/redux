@@ -1,1 +1,1 @@
-export const API = "https://fakestoreapi.com/products";
+export const API = "http://localhost:7890/products";
